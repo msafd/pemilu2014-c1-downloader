@@ -1,0 +1,2 @@
+1. Install CURL 
+    sudo apt-get install curl
